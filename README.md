@@ -35,7 +35,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - Framework: [Zinit](https://github.com/zdharma-continuum/zinit)
 - Prompt: [common](https://github.com/jackharrisonsherlock/common)
 
-### ⚙️ Desktop Setup
+### 🎨 Desktop Setup
 
 - Theme: [Tokyo Night GTK](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) (dark/borderless)
 - Icons: [WhiteSur](https://github.com/vinceliuice/WhiteSur-icon-theme) (bold)
@@ -79,7 +79,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - Chick2D / IdliDev
 - Gogh-Co
 
-### 🔗 More…
+### 🍬 More…
 
 - [Tokyo Night for VS Code](https://github.com/enkia/tokyo-night-vscode-theme)
 - [Tokyo Night for SDDM](https://github.com/rototrash/tokyo-night-sddm)
