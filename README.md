@@ -50,7 +50,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)*
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)*
 - [Aylur’s Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
-- [Rounded Widow Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
+- [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)*
 - [Pop Shell](https://github.com/pop-os/shell)*
 - [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)*
@@ -89,4 +89,5 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - [Tokyo Night for BetterDiscord](https://github.com/Dyzean/Tokyo-Night)
 - [distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes)
 - [r/startpages](https://www.reddit.com/r/startpages/)
+- [ImageGoWild](https://ign.schrodinger-hat.it/color-schemes)
 - [Gogh](https://github.com/Gogh-Co/Gogh)
