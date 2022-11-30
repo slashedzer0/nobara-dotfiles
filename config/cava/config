@@ -1,0 +1,29 @@
+## Modified by https://github.com/supaboss
+
+[general]
+autosens = 1
+overshoot = 20
+bars = 0
+bar_width = .15
+bar_spacing = 1
+
+[output]
+method = ncurses
+channels = stereo
+
+[color]
+gradient = 1
+gradient_color_1 = '#73daca'
+gradient_color_2 = '#3bd3e7'
+gradient_color_3 = '#35c7ff'
+gradient_color_4 = '#79b4ff'
+gradient_color_5 = '#bb9af7'
+gradient_color_6 = '#d78de1'
+gradient_color_7 = '#ea82c8'
+gradient_color_8 = '#f579ab'
+gradient_color_9 = '#f7768e'
+
+[smoothing]
+monstercat = 0
+waves = 0
+gravity = 100
