@@ -28,6 +28,8 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 
 ![2.png](gallery/2.png)
 
+![3.png](gallery/3.png)
+
 ### 👾 Terminal Setup
 
 - Emulator: [kitty](https://github.com/kovidgoyal/kitty)
