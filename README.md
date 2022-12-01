@@ -33,7 +33,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 ### 👾 Terminal Setup
 
 - Emulator: [kitty](https://github.com/kovidgoyal/kitty)
-- Shell: [zsh](https://archlinux.org/packages/extra/x86_64/zsh/)
+- Shell: [zsh](https://github.com/zsh-users/zsh)
 - Framework: [Zinit](https://github.com/zdharma-continuum/zinit)
 - Prompt: [common](https://github.com/jackharrisonsherlock/common)
 
