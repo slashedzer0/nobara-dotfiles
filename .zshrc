@@ -1,4 +1,16 @@
-# Added by Zinit
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.zsh_history
+HISTSIZE=10000
+SAVEHIST=10000
+setopt appendhistory
+
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/doni/.zshrc'
+
+autoload -Uz compinit
+compinit
+
+### Added by Zinit's installer
 if [[ ! -f $HOME/.local/share/zinit/zinit.git/zinit.zsh ]]; then
     print -P "%F{33} %F{220}Installing %F{33}ZDHARMA-CONTINUUM%F{220} Initiative Plugin Manager (%F{33}zdharma-continuum/zinit%F{220})…%f"
     command mkdir -p "$HOME/.local/share/zinit" && command chmod g-rwX "$HOME/.local/share/zinit"
@@ -11,19 +23,56 @@ source "$HOME/.local/share/zinit/zinit.git/zinit.zsh"
 autoload -Uz _zinit
 (( ${+_comps} )) && _comps[zinit]=_zinit
 
-# Essential plugins
-zinit light jackharrisonsherlock/common
-zinit load zdharma-continuum/history-search-multi-word
-zinit light zdharma-continuum/fast-syntax-highlighting
-zinit light clarketm/zsh-completions
-zinit light zsh-users/zsh-autosuggestions
-
-# Snippet
+### Snippet
 zinit snippet https://gist.githubusercontent.com/hightemp/5071909/raw/
 
-# New plugin(s)
-zinit light wfxr/forgit
+### Essential plugins
+zinit light jackharrisonsherlock/common
+zinit light clarketm/zsh-completions
 
-#Start on terminal launch
+zinit wait lucid light-mode for \
+  atinit"zicompinit; zicdreplay" \
+      zdharma-continuum/fast-syntax-highlighting \
+  atload"_zsh_autosuggest_start" \
+      zsh-users/zsh-autosuggestions \
+  blockf atpull'zinit creinstall -q .' \
+      zsh-users/zsh-completions
+
+### New plugins
+zinit light skywind3000/z.lua
+zinit light MichaelAquilina/zsh-you-should-use
+zinit light 3v1n0/zsh-bash-completions-fallback
+
+### Temporary disabled
+# zinit light marlonrichert/zsh-autocomplete
+
+# wfxr/forgit
+zinit ice wait lucid
+zinit load 'wfxr/forgit'
+
+# zdharma-continuum/history-search-multi-word
+zstyle ":history-search-multi-word" page-size "11"
+zinit ice wait"1" lucid
+zinit load zdharma-continuum/history-search-multi-word
+
+### Programs
+# sharkdp/fd
+zinit ice as"command" from"gh-r" mv"fd* -> fd" pick"fd/fd"
+zinit light sharkdp/fd
+
+# sharkdp/bat
+zinit ice as"command" from"gh-r" mv"bat* -> bat" pick"bat/bat"
+zinit light sharkdp/bat
+
+### Start on terminal launch
 pokemon-colorscripts -r --no-title
-python ${HOME}/pokemon.py
+python /home/doni/Coding/pokemon.py
+
+### Misc
+export PATH=$PATH:/home/doni/.spicetify
+export PATH=$PATH:/home/doni/.jitter/bin
+export BAT_THEME="base16"
+export BAT_STYLE="numbers"
+
+eval $(thefuck --alias)
+
