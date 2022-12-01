@@ -66,7 +66,7 @@ zinit light sharkdp/bat
 
 ### Start on terminal launch
 pokemon-colorscripts -r --no-title
-python /home/doni/Coding/pokemon.py
+python ${HOME}/pokemon.py
 
 ### Misc
 export PATH=$PATH:/home/doni/.spicetify
