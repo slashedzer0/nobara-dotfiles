@@ -1,6 +1,16 @@
-<h1 align="center">~/.dotfiles</h1>
+<p align="center">
+  <img src="header.png" />
+</p>
 
-### ℹ️ Important Notes
+## 🌸 Gallery
+
+![1.png](gallery/1.png)
+
+![2.png](gallery/2.png)
+
+![3.png](gallery/3.png)
+
+## ℹ️ Important Notes
 
 - The rice is done on GNOME v42.x and probably will not work on other version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
 - You can remove the titlebar buttons to achieve more minimalism:
@@ -22,29 +32,21 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - For the startpage, I use  [_traichu](https://github.com/Tressley/_traichu) and edited the background color in `styles.css` to match the Tokyo Night color scheme.
 - I also modified the neofetch config from [neofetch-themes](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf).
 
-### 🌸 Gallery
-
-![1.png](gallery/1.png)
-
-![2.png](gallery/2.png)
-
-![3.png](gallery/3.png)
-
-### 👾 Terminal Setup
+## 👾 Terminal Setup
 
 - Emulator: [kitty](https://github.com/kovidgoyal/kitty)
 - Shell: [zsh](https://github.com/zsh-users/zsh)
 - Framework: [Zinit](https://github.com/zdharma-continuum/zinit)
 - Prompt: [common](https://github.com/jackharrisonsherlock/common)
 
-### 🎨 Desktop Setup
+## 🎨 Desktop Setup
 
 - Theme: [Tokyo Night GTK](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) (dark/borderless)
 - Icons: [WhiteSur](https://github.com/vinceliuice/WhiteSur-icon-theme) (bold)
 - Fonts: [SF Pro Display](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts), [Iosevka NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
 - Cursor: [macOS Monterey](https://github.com/ful1e5/apple_cursor)
 
-### 🧩 Extensions
+## 🧩 Extensions
 
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)*
@@ -64,7 +66,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - [Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 
-### ⚡ Terminal Apps
+## ⚡ Terminal Apps
 
 - [neofetch](https://github.com/dylanaraps/neofetch) - fetch operating system info
 - [cava](https://github.com/karlstav/cava) - audio visualizer
@@ -74,14 +76,14 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - [colorscript](https://gitlab.com/dwt1/shell-color-scripts)
 - [tldr](https://github.com/tldr-pages/tldr) - too long; didn’t read
 
-### 💫 Credits
+## 💫 Credits
 
 - Fausto-Korpsvart
 - Tressley
 - Chick2D / IdliDev
 - Gogh-Co
 
-### 🍬 More…
+## 🍬 More…
 
 - [Tokyo Night for VS Code](https://github.com/enkia/tokyo-night-vscode-theme)
 - [Tokyo Night for SDDM](https://github.com/rototrash/tokyo-night-sddm)
