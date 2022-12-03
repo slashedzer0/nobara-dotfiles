@@ -12,7 +12,7 @@
 
 ## ℹ️ Important Notes
 
-- The rice is done on GNOME v42.x and probably will not work on other version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
+- The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
 - You can remove the titlebar buttons to achieve more minimalism:
 
 ```bash
