@@ -68,13 +68,15 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 
 ## ⚡ Terminal Apps
 
-- [neofetch](https://github.com/dylanaraps/neofetch) - fetch operating system info
+- [neofetch](https://github.com/dylanaraps/neofetch) - fetch system info
 - [cava](https://github.com/karlstav/cava) - audio visualizer
 - [tty-clock](https://github.com/xorg62/tty-clock)
 - [bottom](https://github.com/ClementTsang/bottom) / [htop](https://github.com/htop-dev/htop) - system monitor
 - [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - [colorscript](https://gitlab.com/dwt1/shell-color-scripts)
-- [tldr](https://github.com/tldr-pages/tldr) - too long; didn’t read
+- [tldr](https://github.com/tldr-pages/tldr) - your terminal companion
+- [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - task management
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - cooler youtube-dl
 
 ## 💫 Credits
 
@@ -82,6 +84,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - Tressley
 - Chick2D / IdliDev
 - Gogh-Co
+- Wallhaven
 
 ## 🍬 More…
 

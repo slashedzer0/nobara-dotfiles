@@ -24,7 +24,7 @@ autoload -Uz _zinit
 (( ${+_comps} )) && _comps[zinit]=_zinit
 
 ### Snippet
-zinit snippet https://gist.githubusercontent.com/hightemp/5071909/raw/
+zinit snippet https://gist.githubusercontent.com/supaboss/8e5e3f9bc2f5a9d169e2a71682efbcd5/raw
 
 ### Essential plugins
 zinit light jackharrisonsherlock/common
@@ -40,11 +40,9 @@ zinit wait lucid light-mode for \
 
 ### New plugins
 zinit light skywind3000/z.lua
+zinit light marlonrichert/zsh-autocomplete
 zinit light MichaelAquilina/zsh-you-should-use
 zinit light 3v1n0/zsh-bash-completions-fallback
-
-### Temporary disabled
-# zinit light marlonrichert/zsh-autocomplete
 
 # wfxr/forgit
 zinit ice wait lucid
