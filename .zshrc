@@ -1,10 +1,10 @@
-# Lines configured by zsh-newuser-install
+### Lines configured by zsh-newuser-install
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
 setopt appendhistory
 
-# The following lines were added by compinstall
+### The following lines were added by compinstall
 zstyle :compinstall filename '/home/doni/.zshrc'
 
 autoload -Uz compinit
@@ -24,7 +24,7 @@ autoload -Uz _zinit
 (( ${+_comps} )) && _comps[zinit]=_zinit
 
 ### Snippet
-zinit snippet https://gist.githubusercontent.com/supaboss/8e5e3f9bc2f5a9d169e2a71682efbcd5/raw
+zinit snippet https://gist.githubusercontent.com/supaboss/8e5e3f9bc2f5a9d169e2a71682efbcd5/raw/
 
 ### Essential plugins
 zinit light jackharrisonsherlock/common

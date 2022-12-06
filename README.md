@@ -76,7 +76,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-settings.conf
 - [colorscript](https://gitlab.com/dwt1/shell-color-scripts)
 - [tldr](https://github.com/tldr-pages/tldr) - your terminal companion
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - task management
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - cooler youtube-dl
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - youtube-dl but cooler
 
 ## 💫 Credits
 
