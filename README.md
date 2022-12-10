@@ -4,11 +4,13 @@
 
 ## 🌸 Gallery
 
-![1.png](gallery/1.png)
+![float-1.png](gallery/float-1.png)
 
-![2.png](gallery/2.png)
+![float-2.png](gallery/float-2.png)
 
-![3.png](gallery/3.png)
+![float-spotify.png](gallery/float-spotify.png)
+
+![float-code.png](gallery/float-code.png)
 
 ## ℹ️ Important Notes
 
@@ -29,7 +31,6 @@ dconf load /org/gnome/shell/extensions/ < extensions.conf
 ```
 
 - The top panel is based on [Tokyo Night GTK](https://www.gnome-look.org/p/1681470). I simply modified some lines in `gnome-shell.css` for little improvements.
-- For the startpage, I use  [_traichu](https://github.com/Tressley/_traichu) and edited the background color in `styles.css` to match the Tokyo Night color scheme.
 - I also modified the neofetch config from [neofetch-themes](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf).
 
 ## 👾 Terminal Setup
@@ -81,7 +82,6 @@ dconf load /org/gnome/shell/extensions/ < extensions.conf
 ## 💫 Credits
 
 - Fausto-Korpsvart
-- Tressley
 - Chick2D / IdliDev
 - Gogh-Co
 - Wallhaven
@@ -90,8 +90,8 @@ dconf load /org/gnome/shell/extensions/ < extensions.conf
 
 - [Tokyo Night for VS Code](https://github.com/enkia/tokyo-night-vscode-theme)
 - [Tokyo Night for SDDM](https://github.com/rototrash/tokyo-night-sddm)
-- [Tokyo Night for Spicetify](https://github.com/actualdankcoder/TokyoNight-spicetify)
 - [Tokyo Night for BetterDiscord](https://github.com/Dyzean/Tokyo-Night)
+- [Comfy for Spicetify](https://github.com/Comfy-Themes/Spicetify)
 - [distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes)
 - [r/startpages](https://www.reddit.com/r/startpages/)
 - [ImageGoWild](https://ign.schrodinger-hat.it/color-schemes)
