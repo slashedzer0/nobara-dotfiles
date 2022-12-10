@@ -27,7 +27,7 @@ gsettings set org.gnome.desktop.wm.preferences button-layout :
 ```bash
 # Assuming you are already in this dotfiles directory
 cd preset
-dconf load /org/gnome/shell/extensions/ < extensions.conf
+dconf load /org/gnome/shell/extensions/ < extensions-latest.conf
 ```
 
 - The top panel is based on [Tokyo Night GTK](https://www.gnome-look.org/p/1681470). I simply modified some lines in `gnome-shell.css` for little improvements.
