@@ -15,6 +15,7 @@
 ## ℹ️ Important Notes
 
 - The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
+- Kindly check the [gallery](https://github.com/slashedzer0/nobara-dotfiles/tree/main/gallery) for more screenshots (including old ones).
 - You can remove the titlebar buttons to achieve more minimalism:
 
 ```bash
