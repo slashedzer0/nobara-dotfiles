@@ -24,7 +24,7 @@ autoload -Uz _zinit
 (( ${+_comps} )) && _comps[zinit]=_zinit
 
 ### Snippet
-zinit snippet https://gist.githubusercontent.com/supaboss/8e5e3f9bc2f5a9d169e2a71682efbcd5/raw/
+zinit snippet https://gist.githubusercontent.com/slashedzer0/8e5e3f9bc2f5a9d169e2a71682efbcd5/raw
 
 ### Essential plugins
 zinit light jackharrisonsherlock/common
@@ -73,4 +73,3 @@ export BAT_THEME="base16"
 export BAT_STYLE="numbers"
 
 eval $(thefuck --alias)
-
