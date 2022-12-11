@@ -2,6 +2,13 @@
   <img src="header.png" />
 </p>
 
+<p align="center">
+  <img alt="" src="https://img.shields.io/github/repo-size/slashedzer0/nobara-dotfiles" />
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/slashedzer0/nobara-dotfiles" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/slashedzer0/nobara-dotfiles" />
+  <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/slashedzer0/nobara-dotfiles" />
+</p>
+
 ## 🌸 Gallery
 
 ![float-1.png](gallery/float-1.png)
