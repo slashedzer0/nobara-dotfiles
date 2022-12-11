@@ -107,6 +107,6 @@ dconf load /org/gnome/shell/extensions/ < extensions-latest.conf
 ---
 
 <p align="center">
-  <img alt="" src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img alt="" src="https://forthebadge.com/images/badges/uses-badges.svg" />
+  <img alt="" src="https://forthebadge.com/images/badges/made-with-crayons.svg" />
+  <img alt="" src="https://forthebadge.com/images/badges/uses-brains.svg" />
 </p>
