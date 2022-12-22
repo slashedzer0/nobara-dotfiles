@@ -69,7 +69,5 @@ python ${HOME}/.pokemon.py
 ### Misc
 export PATH=$PATH:/home/doni/.spicetify
 export PATH=$PATH:/home/doni/.jitter/bin
-export BAT_THEME="base16"
-export BAT_STYLE="numbers"
 
 eval $(thefuck --alias)
