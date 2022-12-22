@@ -1,0 +1,2 @@
+export BAT_THEME="Catppuccin-macchiato"
+export BAT_STYLE="numbers"
