@@ -1,0 +1,54 @@
+{
+  "float": [
+    {
+      "class": "pop-shell-example",
+      "title": "pop-shell-example"
+    },
+    {
+      "class": "Eog"
+    },
+    {
+      "class": "Org.gnome.Nautilus"
+    },
+    {
+      "class": "ProtonUp-Qt"
+    },
+    {
+      "class": "org.gnome.Shell.Extensions"
+    },
+    {
+      "class": "BetterDiscord"
+    },
+    {
+      "class": "baobab"
+    },
+    {
+      "class": "File-roller"
+    },
+    {
+      "class": "vlc"
+    },
+    {
+      "class": "mpv"
+    },
+    {
+      "class": "stacer"
+    },
+    {
+      "class": "Gnome-tweaks"
+    },
+    {
+      "class": "gnome-font-viewer"
+    },
+    {
+      "class": "extension-manager"
+    },
+    {
+      "class": "gnome-control-center"
+    }
+  ],
+  "skiptaskbarhidden": [],
+  "log_on_focus": false,
+  "move_pointer_on_switch": false,
+  "default_pointer_position": "TOP_LEFT"
+}

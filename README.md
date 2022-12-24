@@ -1,7 +1,7 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="150" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="175" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	~/.dotfiles
+	<samp>~/.dotfiles</samp>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-Heavily inspired by the Catppuccin color scheme. Currently work in progress...
+Inspired by the Catppuccin color scheme. Still a lot of work to do...
 </p>
 
 &nbsp;
 
-## 🌸 Screenshots
+### <samp>🌸 Screenshots</samp>
 
 ![busy.png](assets/busy.png)
 
@@ -36,7 +36,7 @@ Heavily inspired by the Catppuccin color scheme. Currently work in progress...
 
 &nbsp;
 
-## ℹ️ Important Notes
+### <samp>ℹ️ Important Notes</samp>
 
 - The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
 - You can remove the titlebar buttons to achieve more minimalism:
@@ -59,7 +59,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-new.conf
 
 &nbsp;
 
-## 👾 Terminal Setup
+### <samp>👾 Terminal Setup</samp>
 
 - Emulator: [kitty](https://github.com/kovidgoyal/kitty)
 - Shell: [zsh](https://github.com/zsh-users/zsh)
@@ -68,7 +68,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-new.conf
 
 &nbsp;
 
-## 🎨 Desktop Setup
+### <samp>🎨 Desktop Setup</samp>
 
 - Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [papirus-folders](https://github.com/catppuccin/papirus-folders)
@@ -77,7 +77,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-new.conf
 
 &nbsp;
 
-## 🧩 Extensions
+### <samp>🧩 Extensions</samp>
 
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)*
@@ -99,7 +99,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-new.conf
 
 &nbsp;
 
-## ⚡ Terminal Apps
+### <samp>⚡ Terminal Apps</samp>
 
 - [neofetch](https://github.com/dylanaraps/neofetch) - fetch system info
 - [cava](https://github.com/karlstav/cava) - audio visualizer
@@ -113,7 +113,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-new.conf
 
 &nbsp;
 
-## 💫 Credits
+### <samp>💫 Credits</samp>
 
 - Catppuccin
 - Chick2D / IdliDev
@@ -121,7 +121,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-new.conf
 
 &nbsp;
 
-## 🍬 More…
+### <samp>🍬 More…</samp>
 
 - [Catppuccin for VS Code](https://github.com/catppuccin/vscode)
 - [Catppuccin for JetBrains](https://github.com/catppuccin/jetbrains)
@@ -129,7 +129,7 @@ dconf load /org/gnome/shell/extensions/ < extensions-new.conf
 - [Catppuccin for Spicetify](https://github.com/catppuccin/spicetify)
 - [Catppuccin for Firefox](https://github.com/catppuccin/firefox)
 - [Catppuccin for Chrome](https://github.com/catppuccin/chrome)
-- [My startpage](https://github.com/slashedzer0/fluidity)
+- [My custom startpage](https://github.com/slashedzer0/fluidity)
 
 &nbsp;
 
