@@ -8,7 +8,7 @@
 <h6 align="center">
   <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#-screenshots">Screenshots</a>
   •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#-important-notes">Notes</a>
+  <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#%E2%84%B9%EF%B8%8F-important-notes">Notes</a>
   •
   <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#-terminal-setup">Setups</a>
   •
