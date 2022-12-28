@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
   <img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/slashedzer0/nobara-dotfiles?style=for-the-badge&logo=file-zip&color=91d7e3&logoColor=D9E0EE&labelColor=363a4f" />
-  <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/slashedzer0/nobara-dotfiles?style=for-the-badge&logo=history&color=a6da95&logoColor=D9E0EE&labelColor=363a4f" />
+  <img alt="Last Commit (branch)" src="https://custom-icon-badges.demolab.com/github/last-commit/slashedzer0/nobara-dotfiles/catppuccin?style=for-the-badge&logo=history&color=a6da95&logoColor=D9E0EE&labelColor=363a4f" />
   <img alt="License" src="https://custom-icon-badges.demolab.com/github/license/slashedzer0/nobara-dotfiles?style=for-the-badge&logo=law&color=f5a97f&logoColor=D9E0EE&labelColor=363a4f" />
 </p>
 
@@ -63,7 +63,7 @@ gsettings set org.gnome.desktop.wm.preferences button-layout :
 ```bash
 # Assuming you are already in this dotfiles directory
 cd preset
-dconf load /org/gnome/shell/extensions/ < extensions-new.conf
+dconf load /org/gnome/shell/extensions/ < extensions.conf
 ```
 
 - The top panel is based on [Catppuccin GTK](https://github.com/catppuccin/gtk). I simply modified some lines in `gnome-shell.css` for little improvements.

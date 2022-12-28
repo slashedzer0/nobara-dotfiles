@@ -2028,6 +2028,8 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
   width: 34em;
   min-height: 64px;
   margin: 2px 5px 8px;
+  margin-top: 9px;
+  margin-right: 9px;
   border-radius: 6px;
   color: rgba(202, 211, 245, 0.7);
   background-color: #24273a;
@@ -2040,8 +2042,7 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
 .notification-banner:hover {
   color: #cad3f5;
   background-color: #24273a;
-  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.25);
-  margin: 2px 12px 17px;
+  box-shadow: 0 5px 9px rgba(0, 0, 0, 0.25);
 }
 
 .notification-banner:focus {
