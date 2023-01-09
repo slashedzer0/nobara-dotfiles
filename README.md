@@ -66,6 +66,17 @@ cd preset
 dconf load /org/gnome/shell/extensions/ < extensions.conf
 ```
 
+- There is a [`stylesheet.css`](https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin/preset/dash-to-dock@micxgx.gmail.com) from [dash-to-dock](https://github.com/micheleg/dash-to-dock) that I tweaked a bit to make the gaps more consistent. You can use it by running:
+
+```bash
+# Assuming you are already in 'preset' directory (make backup first!)
+cd dash-to-dock@micxgx.gmail.com
+cp stylesheet.css ~/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/
+
+# Or if your OS comes with dash-to-dock extension by default (root access needed)
+sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/
+```
+
 - The top panel is based on [Catppuccin GTK](https://github.com/catppuccin/gtk). I simply modified some lines in `gnome-shell.css` for little improvements.
 - I also modified the neofetch config from [neofetch-themes](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf).
 
@@ -82,7 +93,7 @@ dconf load /org/gnome/shell/extensions/ < extensions.conf
 
 ### <samp>🎨 Desktop Setup</samp>
 
-- Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
+- Theme: [Catppuccin GTK](https://github.com/catppuccin/gtk)
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [papirus-folders](https://github.com/catppuccin/papirus-folders)
 - Fonts: [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font), [Iosevka NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
 - Cursor: [macOS Monterey](https://github.com/ful1e5/apple_cursor)
@@ -128,6 +139,7 @@ dconf load /org/gnome/shell/extensions/ < extensions.conf
 ### <samp>💫 Credits</samp>
 
 - Catppuccin
+- micheleg
 - Chick2D / IdliDev
 - Wallhaven
 
