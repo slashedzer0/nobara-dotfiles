@@ -133,6 +133,9 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - [tldr](https://github.com/tldr-pages/tldr) - your terminal companion
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - task management
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - youtube-dl but cooler
+- [nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - fan control
+- [duf](https://github.com/muesli/duf)
+- [ncdu](https://dev.yorhel.nl/ncdu) - disk usage analyzer
 
 &nbsp;
 
