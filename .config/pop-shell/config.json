@@ -8,7 +8,7 @@
       "class": "Eog"
     },
     {
-      "class": "Org.gnome.Nautilus"
+      "class": "xdg-desktop-portal-gnome"
     },
     {
       "class": "ProtonUp-Qt"
@@ -45,6 +45,9 @@
     },
     {
       "class": "gnome-control-center"
+    },
+    {
+      "class": "Org.gnome.Nautilus"
     }
   ],
   "skiptaskbarhidden": [],

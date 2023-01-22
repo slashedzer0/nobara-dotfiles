@@ -36,29 +36,31 @@ Inspired by the Catppuccin color scheme. Still a lot of work to do...
 
 ### <samp>🌸 Screenshots</samp>
 
-![busy.png](assets/busy.png)
+![homescreen.png](assets/homescreen.png)
 
-![overview.png](assets/overview.png)
+![floating.png](assets/floating.png)
+
+![spotify.png](assets/spotify.png)
+
+![busy.png](assets/busy.png)
 
 ![terminal.png](assets/terminal.png)
 
 ![code.png](assets/code.png)
-
-![spotify.png](assets/spotify.png)
 
 &nbsp;
 
 ### <samp>ℹ️ Important Notes</samp>
 
 - The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
-- You can remove the titlebar buttons to achieve more minimalism:
+- You can remove titlebar buttons to achieve more minimalism:
 
 ```bash
 # Don't forget to set some keyboard shortcuts before applying
 gsettings set org.gnome.desktop.wm.preferences button-layout :
 ```
 
-- To load extensions settings, install the extensions first then run:
+- To load extensions settings, install the extensions first then run commands below:
 
 ```bash
 # Assuming you are already in this dotfiles directory
@@ -78,7 +80,7 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 ```
 
 - The top panel is based on [Catppuccin GTK](https://github.com/catppuccin/gtk). I simply modified some lines in `gnome-shell.css` for little improvements.
-- I also modified the neofetch config from [neofetch-themes](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf).
+- I also modified `config.conf` from [neofetch-themes](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf).
 
 &nbsp;
 
@@ -97,6 +99,7 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [papirus-folders](https://github.com/catppuccin/papirus-folders)
 - Fonts: [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font), [Iosevka NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
 - Cursor: [macOS Monterey](https://github.com/ful1e5/apple_cursor)
+- Widget: [Pleione](https://www.pling.com/p/1832702/)
 
 &nbsp;
 
@@ -130,12 +133,11 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - [bottom](https://github.com/ClementTsang/bottom) / [htop](https://github.com/htop-dev/htop) - system monitor
 - [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - [colorscript](https://gitlab.com/dwt1/shell-color-scripts)
-- [tldr](https://github.com/tldr-pages/tldr) - your terminal companion
+- [tldr](https://github.com/tldr-pages/tldr) - a terminal companion
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - task management
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - youtube-dl but cooler
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - fan control
-- [duf](https://github.com/muesli/duf)
-- [ncdu](https://dev.yorhel.nl/ncdu) - disk usage analyzer
+- [duf](https://github.com/muesli/duf) / [ncdu](https://dev.yorhel.nl/ncdu) - disk usage analyzer
 
 &nbsp;
 
@@ -144,6 +146,7 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - Catppuccin
 - micheleg
 - Chick2D / IdliDev
+- closebox73
 - Wallhaven
 
 &nbsp;

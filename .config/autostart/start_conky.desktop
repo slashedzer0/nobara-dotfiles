@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh -c "$HOME/.config/conky/Pleione/start.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Conky Config Pleione
+Name=Conky Pleione Startup
+Comment[en_US]=Conky Pleione
+Comment=Conky Pleione
