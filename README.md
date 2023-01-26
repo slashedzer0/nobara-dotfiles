@@ -6,15 +6,15 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#-screenshots">Screenshots</a>
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-screenshots">Screenshots</a>
   •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#%E2%84%B9%EF%B8%8F-important-notes">Notes</a>
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#%E2%84%B9%EF%B8%8F-important-notes">Notes</a>
   •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#-terminal-setup">Setups</a>
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-terminal-setup">Setups</a>
   •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#-extensions">Extensions</a>
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-extensions">Extensions</a>
   •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin#-more">References</a>
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-more">References</a>
 </h6>
 
 <p align="center">
