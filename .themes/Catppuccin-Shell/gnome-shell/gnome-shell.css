@@ -2043,6 +2043,7 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
   color: #cad3f5;
   background-color: #24273a;
   box-shadow: 0 5px 9px rgba(0, 0, 0, 0.25);
+  
 }
 
 .notification-banner:focus {

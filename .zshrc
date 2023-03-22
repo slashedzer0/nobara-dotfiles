@@ -2,6 +2,9 @@
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
+
+setopt hist_ignore_all_dups
+setopt hist_save_no_dups
 setopt appendhistory
 
 ### The following lines were added by compinstall
@@ -40,7 +43,7 @@ zinit wait lucid light-mode for \
 
 ### New plugins
 zinit light skywind3000/z.lua
-#zinit light marlonrichert/zsh-autocomplete
+#_DISABLED zinit light marlonrichert/zsh-autocomplete
 zinit light MichaelAquilina/zsh-you-should-use
 zinit light 3v1n0/zsh-bash-completions-fallback
 

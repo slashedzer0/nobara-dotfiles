@@ -29,7 +29,7 @@
       "class": "vlc"
     },
     {
-      "class": "mpv"
+      "class": "Org.gnome.Nautilus"
     },
     {
       "class": "stacer"
@@ -47,7 +47,19 @@
       "class": "gnome-control-center"
     },
     {
-      "class": "Org.gnome.Nautilus"
+      "class": "mpv"
+    },
+    {
+      "class": "kitty"
+    },
+    {
+      "class": "Gnome-system-monitor"
+    },
+    {
+      "class": "Pavucontrol"
+    },
+    {
+      "class": "Rhythmbox"
     }
   ],
   "skiptaskbarhidden": [],
