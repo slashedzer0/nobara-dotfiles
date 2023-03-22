@@ -23,9 +23,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  <img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/slashedzer0/nobara-dotfiles?style=for-the-badge&logo=file-zip&color=91d7e3&logoColor=D9E0EE&labelColor=363a4f" />
-  <img alt="Last Commit (branch)" src="https://custom-icon-badges.demolab.com/github/last-commit/slashedzer0/nobara-dotfiles/catppuccin?style=for-the-badge&logo=history&color=a6da95&logoColor=D9E0EE&labelColor=363a4f" />
-  <img alt="License" src="https://custom-icon-badges.demolab.com/github/license/slashedzer0/nobara-dotfiles?style=for-the-badge&logo=law&color=f5a97f&logoColor=D9E0EE&labelColor=363a4f" />
+  <img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/slashedzer0/nobara-dotfiles?style=flat&logo=file-zip&color=91d7e3&logoColor=D9E0EE&labelColor=363a4f" />
+  <img alt="Last Commit (branch)" src="https://custom-icon-badges.demolab.com/github/last-commit/slashedzer0/nobara-dotfiles/catppuccin?style=flat&logo=history&color=a6da95&logoColor=D9E0EE&labelColor=363a4f" />
+  <img alt="License" src="https://custom-icon-badges.demolab.com/github/license/slashedzer0/nobara-dotfiles?style=flat&logo=law&color=f5a97f&logoColor=D9E0EE&labelColor=363a4f" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Inspired by the Catppuccin color scheme. Still a lot of work to do...
 
 ### <samp>ℹ️ Important Notes</samp>
 
-- The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
+- The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (\*) from Nobara 36, which is the OS I use.
 - You can remove titlebar buttons to achieve more minimalism:
 
 ```bash
@@ -106,20 +106,20 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 ### <samp>🧩 Extensions</samp>
 
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
-- [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)*
-- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)*
+- [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)\*
+- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)\*
 - [Aylur’s Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
 - [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
-- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)*
-- [Pop Shell](https://github.com/pop-os/shell)*
-- [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)*
-- [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)*
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)\*
+- [Pop Shell](https://github.com/pop-os/shell)\*
+- [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)\*
+- [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)\*
 - [Media Controls](https://extensions.gnome.org/extension/4470/media-controls/)
-- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)*
-- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)*
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)*
-- [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)*
-- [Clipboard History](https://extensions.gnome.org/extension/4839/clipboard-history/)*
+- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)\*
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)\*
+- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)\*
+- [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)\*
+- [Clipboard History](https://extensions.gnome.org/extension/4839/clipboard-history/)\*
 - [Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 

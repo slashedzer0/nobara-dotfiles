@@ -1,3 +1,6 @@
+# simple greeting script to use with pokemon-colorscripts
+# https://gitlab.com/phoneybadger/pokemon-colorscripts
+
 import random
 
 def get_pokemon():
