@@ -1,6 +1,6 @@
 [user]
-	name = Doni Wicaksono
+	name 	= Doni Wicaksono
 	email = 101719469+slashedzer0@users.noreply.github.com
 
 [core]
-    editor = nano
+	editor = nano

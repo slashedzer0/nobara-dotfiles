@@ -42,8 +42,8 @@ zinit wait lucid light-mode for \
       zsh-users/zsh-completions
 
 ### New plugins
-zinit light skywind3000/z.lua
 #_DISABLED zinit light marlonrichert/zsh-autocomplete
+zinit light skywind3000/z.lua
 zinit light MichaelAquilina/zsh-you-should-use
 zinit light 3v1n0/zsh-bash-completions-fallback
 
@@ -67,7 +67,7 @@ zinit light sharkdp/bat
 
 ### Misc
 export PATH=$PATH:/home/doni/.spicetify
-export PATH=$PATH:/home/doni/.jitter/bin
+export PATH=$PATH:~/.spoof-dpi/bin
 export BAT_THEME="Catppuccin-macchiato"
 export BAT_STYLE="numbers"
 
