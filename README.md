@@ -5,6 +5,20 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
+<!---
+<h6 align="center">
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-screenshots">Screenshots</a>
+  •
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#%E2%84%B9%EF%B8%8F-important-notes">Notes</a>
+  •
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-terminal-setup">Setups</a>
+  •
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-extensions">Extensions</a>
+  •
+  <a href="https://github.com/slashedzer0/nobara-dotfiles#-more">References</a>
+</h6>
+--->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
 </p>
@@ -34,6 +48,7 @@ Inspired by the Catppuccin color scheme. Still a lot of work to do...
 ![terminal.png](assets/terminal.png)
 
 ![code.png](assets/code.png)
+
 </details>
 
 <details open>
