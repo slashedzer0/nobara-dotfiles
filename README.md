@@ -1,21 +1,9 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="175" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	<samp>~/.dotfiles</samp>
+	<samp>~/.nobara-dotfiles</samp>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
-
-<h6 align="center">
-  <a href="https://github.com/slashedzer0/nobara-dotfiles#-screenshots">Screenshots</a>
-  •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles#%E2%84%B9%EF%B8%8F-important-notes">Notes</a>
-  •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles#-terminal-setup">Setups</a>
-  •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles#-extensions">Extensions</a>
-  •
-  <a href="https://github.com/slashedzer0/nobara-dotfiles#-more">References</a>
-</h6>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
@@ -32,9 +20,8 @@
 Inspired by the Catppuccin color scheme. Still a lot of work to do...
 </p>
 
-&nbsp;
-
-### <samp>🌸 Screenshots</samp>
+<details open>
+<summary><h3><samp>🌸 Screenshots</samp></h3></summary>
 
 ![homescreen.png](assets/homescreen.png)
 
@@ -47,10 +34,10 @@ Inspired by the Catppuccin color scheme. Still a lot of work to do...
 ![terminal.png](assets/terminal.png)
 
 ![code.png](assets/code.png)
+</details>
 
-&nbsp;
-
-### <samp>ℹ️ Important Notes</samp>
+<details open>
+<summary><h3><samp>ℹ️ Important Notes</samp></h3></summary>
 
 - The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (\*) from Nobara 36, which is the OS I use.
 - You can remove titlebar buttons to achieve more minimalism:
@@ -81,29 +68,29 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 
 - The top panel is based on [Catppuccin GTK](https://github.com/catppuccin/gtk). I simply modified some lines in `gnome-shell.css` for little improvements.
 - I also modified `config.conf` from [neofetch-themes](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf).
+</details>
 
-&nbsp;
-
-### <samp>👾 Terminal Setup</samp>
+<details>
+<summary><h3><samp>👾 Terminal Setup</samp></h3></summary>
 
 - Emulator: [kitty](https://github.com/kovidgoyal/kitty)
 - Shell: [zsh](https://github.com/zsh-users/zsh)
 - Framework: [Zinit](https://github.com/zdharma-continuum/zinit)
 - Prompt: [common](https://github.com/jackharrisonsherlock/common)
+</details>
 
-&nbsp;
-
-### <samp>🎨 Desktop Setup</samp>
+<details>
+<summary><h3><samp>🎨 Desktop Setup</samp></h3></summary>
 
 - Theme: [Catppuccin GTK](https://github.com/catppuccin/gtk)
 - Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [papirus-folders](https://github.com/catppuccin/papirus-folders)
 - Fonts: [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font), [Iosevka NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
 - Cursor: [macOS Monterey](https://github.com/ful1e5/apple_cursor)
 - Widget: [Pleione](https://www.pling.com/p/1832702/)
+</details>
 
-&nbsp;
-
-### <samp>🧩 Extensions</samp>
+<details>
+<summary><h3><samp>🧩 Extensions</samp></h3></summary>
 
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)\*
@@ -122,10 +109,10 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - [Clipboard History](https://extensions.gnome.org/extension/4839/clipboard-history/)\*
 - [Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+</details>
 
-&nbsp;
-
-### <samp>⚡ Terminal Apps</samp>
+<details>
+<summary><h3><samp>⚡ Terminal Apps</samp></h3></summary>
 
 - [neofetch](https://github.com/dylanaraps/neofetch) - fetch system info
 - [cava](https://github.com/karlstav/cava) - audio visualizer
@@ -138,20 +125,10 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - fan control
 - [duf](https://github.com/muesli/duf) / [ncdu](https://dev.yorhel.nl/ncdu) - disk usage analyzer
+</details>
 
-&nbsp;
-
-### <samp>💫 Credits</samp>
-
-- Catppuccin
-- micheleg
-- Chick2D / IdliDev
-- closebox73
-- Wallhaven
-
-&nbsp;
-
-### <samp>🍬 More…</samp>
+<details>
+<summary><h3><samp>🍬 More…</samp></h3></summary>
 
 - [Catppuccin for VS Code](https://github.com/catppuccin/vscode)
 - [Catppuccin for JetBrains](https://github.com/catppuccin/jetbrains)
@@ -160,7 +137,16 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - [Catppuccin for Firefox](https://github.com/catppuccin/firefox)
 - [Catppuccin for Chrome](https://github.com/catppuccin/chrome)
 - [My custom startpage](https://github.com/slashedzer0/fluidity)
+</details>
 
-&nbsp;
+<details open>
+<summary><h3><samp>💫 Credits</samp></h3></summary>
+
+- Catppuccin
+- micheleg
+- Chick2D / IdliDev
+- closebox73
+- Wallhaven
+</details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
