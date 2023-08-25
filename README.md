@@ -151,7 +151,7 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 - [Catppuccin for Spicetify](https://github.com/catppuccin/spicetify)
 - [Catppuccin for Firefox](https://github.com/catppuccin/firefox)
 - [Catppuccin for Chrome](https://github.com/catppuccin/chrome)
-- [My custom startpage](https://github.com/slashedzer0/fluidity)
+- [My custom startpage](https://github.com/slashedzer0/Ether)
 </details>
 
 <details open>
