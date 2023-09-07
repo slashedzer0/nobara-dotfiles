@@ -107,23 +107,36 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 <details>
 <summary><h3><samp>🧩 Extensions</samp></h3></summary>
 
-- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
-- [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)\*
-- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)\*
-- [Aylur’s Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
-- [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
-- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)\*
-- [Pop Shell](https://github.com/pop-os/shell)\*
-- [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)\*
+- [Alphabetical App Grid](https://extensions.gnome.org/extension/4269/alphabetical-app-grid/)
+- [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
+- [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/)
 - [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)\*
-- [Media Controls](https://extensions.gnome.org/extension/4470/media-controls/)
+- [Aylur’s Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
+- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)\*
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)\*
-- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)\*
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)\*
-- [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)\*
 - [Clipboard History](https://extensions.gnome.org/extension/4839/clipboard-history/)\*
+- [Colored AppMenu Icon](https://extensions.gnome.org/extension/3712/color-app-menu-icon/)
 - [Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
+- [Compiz Windows Effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
+- [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)\*
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)\*
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)\*
+- [Media Controls](https://extensions.gnome.org/extension/4470/media-controls/)
+- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)\*
+- [[QSTweak] Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
+- [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
+- [Running Apps List](https://extensions.gnome.org/extension/5832/running-apps-list/)
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- [Wireless HID](https://extensions.gnome.org/extension/4228/wireless-hid/)
+
+
+- [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)\*
+- [Custom Accent Colors](https://extensions.gnome.org/extension/5547/custom-accent-colors/)
+- [Gesture Improvements](https://extensions.gnome.org/extension/4245/gesture-improvements/)\*
+- [Pop Shell](https://github.com/pop-os/shell)\*
+
+
 </details>
 
 <details>
