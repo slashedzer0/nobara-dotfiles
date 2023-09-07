@@ -46,3 +46,4 @@ function parse_git_dirty {
 }
 
 export PS1="\[\e[32m\]\`parse_git_branch\`\[\e[m\] \[\e[34m\]\W\[\e[m\] \[\e[35m\]❯\[\e[m\] "
+export PATH=$PATH:/home/sidlais/.spicetify

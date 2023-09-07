@@ -66,7 +66,7 @@ zinit ice as"command" from"gh-r" mv"bat* -> bat" pick"bat/bat"
 zinit light sharkdp/bat
 
 ### Misc
-export PATH=$PATH:/home/doni/.spicetify
+export PATH=$PATH:/home/sidlais/.spicetify
 export PATH=$PATH:~/.spoof-dpi/bin
 export BAT_THEME="Catppuccin-macchiato"
 export BAT_STYLE="numbers"
